@@ -1,0 +1,42 @@
+_repo: Th-ologie-hindoue.-Le-Kama-soutra._14609
+_version: 0.1.0
+alternative_title: Kamasutra.  French
+contributor:
+  translator:
+    agent_name: Lamairesse
+    aliases:
+    - Lamairesse, E. (Eugene)
+    - Lamairesse, Pierre Eugène
+    birthdate: 1817
+    gutenberg_agent_id: '6639'
+    url: http://www.gutenberg.org/2009/agents/6639
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vatsyayana
+    alias: Mallanaga
+    gutenberg_agent_id: '5593'
+    url: http://www.gutenberg.org/2009/agents/5593
+    wikipedia: http://en.wikipedia.org/wiki/V%C4%81tsy%C4%81yana
+description: ''
+gutenberg_bookshelf:
+- Erotic Fiction
+- FR Séduction et libertinage
+gutenberg_issued: '2005-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14609'
+  lccn: '43033904'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love'
+- !lcsh 'Sexual intercourse'
+- !lcc 'HQ'
+- !lcsh 'Sex'
+title: Théologie hindoue. Le Kama soutra.
+url: http://www.gutenberg.org/ebooks/14609
